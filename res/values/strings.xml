@@ -1686,4 +1686,8 @@
      <string name="lockscreen_cover_filter_blur">Blur</string>
      <string name="lockscreen_cover_filter_grayblur">Grayscale and blurred</string>
      <string name="lockscreen_cover_filter_gradientblur">Gradient Blur</string>
+	     
+    <!-- Screen off fod -->
+    <string name="fod_gesture_title">Screen off fingerprint</string>
+    <string name="fod_gesture_summary">Allows unlocking the device without having to wake up the screen first</string>
 </resources>
